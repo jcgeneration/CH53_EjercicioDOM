@@ -16,4 +16,8 @@ git add .
 git commit -m "mensaje"
 git push origin main
 ```
+> Vista previa del index.html
+
+![Index](https://raw.githubusercontent.com/jcgeneration/CH53_EjercicioDOM/refs/heads/main/images/index.png)
+
 
